@@ -1,0 +1,47 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "HelloPersonTest",
+    "children" : [ {
+      "name" : "testSay()",
+      "uid" : "bd371982ecdb0964",
+      "parentUid" : "99cf5809c1548ff37cf50d3ba87ba34b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638830338445,
+        "stop" : 1638830338591,
+        "duration" : 146
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "99cf5809c1548ff37cf50d3ba87ba34b"
+  }, {
+    "name" : "ProgramTest",
+    "children" : [ {
+      "name" : "testMain()",
+      "uid" : "43d6e200e848f135",
+      "parentUid" : "e68bcabee6d9369bb1c0c01a0fad319c",
+      "status" : "passed",
+      "time" : {
+        "start" : 1638830338875,
+        "stop" : 1638830338877,
+        "duration" : 2
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 0,
+      "retriesStatusChange" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e68bcabee6d9369bb1c0c01a0fad319c"
+  } ]
+}
