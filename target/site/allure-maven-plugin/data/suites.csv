@@ -1,3 +1,3 @@
 "Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
-"passed","Tue Dec 07 01:38:58 MSK 2021","Tue Dec 07 01:38:58 MSK 2021","146","","HelloPersonTest","","HelloPersonTest","testSay","testSay()",""
-"passed","Tue Dec 07 01:38:58 MSK 2021","Tue Dec 07 01:38:58 MSK 2021","2","","ProgramTest","","ProgramTest","testMain","testMain()",""
+"passed","Tue Dec 07 02:10:24 MSK 2021","Tue Dec 07 02:10:24 MSK 2021","5","","ProgramTest","","ProgramTest","testMain","testMain()",""
+"passed","Tue Dec 07 02:10:23 MSK 2021","Tue Dec 07 02:10:24 MSK 2021","76","","HelloPersonTest","","HelloPersonTest","testSay","testSay()",""
