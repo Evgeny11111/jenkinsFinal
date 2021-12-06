@@ -1,4 +1,3 @@
-package main.java;
 
 public class HelloPerson {
     private String name;

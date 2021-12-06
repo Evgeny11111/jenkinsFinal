@@ -1,6 +1,4 @@
-package test.java;
 
-import main.java.HelloPerson;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
 

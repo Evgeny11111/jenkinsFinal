@@ -1,6 +1,3 @@
-package main.java;
-
-import main.java.HelloPerson;
 
 public class Program {
     public static void main(String[] args) {
