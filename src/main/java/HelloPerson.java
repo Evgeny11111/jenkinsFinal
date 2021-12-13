@@ -1,6 +1,5 @@
-
 public class HelloPerson {
-    private final String name;
+    private String name;
     public HelloPerson(String name) {
         this.name = name;
     }
